@@ -1,0 +1,57 @@
+D:\FILE GITHUB\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.exe
+D:\FILE GITHUB\HotelTransactionReader\bin\Debug\net9.0\Data\hotel_transaction.csv
+D:\FILE GITHUB\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.deps.json
+D:\FILE GITHUB\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.runtimeconfig.json
+D:\FILE GITHUB\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.dll
+D:\FILE GITHUB\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.pdb
+D:\FILE GITHUB\HotelTransactionReader\bin\Debug\net9.0\CsvHelper.dll
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.csproj.AssemblyReference.cache
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.AssemblyInfoInputs.cache
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.AssemblyInfo.cs
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.csproj.CoreCompileInputs.cache
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.sourcelink.json
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTra.994730D9.Up2Date
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.dll
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\refint\HotelTransactionReader.dll
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.pdb
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.genruntimeconfig.cache
+D:\FILE GITHUB\HotelTransactionReader\obj\Debug\net9.0\ref\HotelTransactionReader.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.exe
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\bin\Debug\net9.0\Data\hotel_transaction.csv
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.deps.json
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.runtimeconfig.json
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.pdb
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\bin\Debug\net9.0\CsvHelper.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.csproj.AssemblyReference.cache
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.AssemblyInfoInputs.cache
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.AssemblyInfo.cs
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.csproj.CoreCompileInputs.cache
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.sourcelink.json
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTra.994730D9.Up2Date
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\refint\HotelTransactionReader.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.pdb
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.genruntimeconfig.cache
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransaction\HotelTransactionReader\obj\Debug\net9.0\ref\HotelTransactionReader.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.exe
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\bin\Debug\net9.0\Data\hotel_transaction.csv
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.deps.json
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.runtimeconfig.json
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\bin\Debug\net9.0\HotelTransactionReader.pdb
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\bin\Debug\net9.0\CsvHelper.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.csproj.AssemblyReference.cache
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.AssemblyInfoInputs.cache
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.AssemblyInfo.cs
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.csproj.CoreCompileInputs.cache
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.sourcelink.json
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTra.994730D9.Up2Date
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\refint\HotelTransactionReader.dll
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.pdb
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\HotelTransactionReader.genruntimeconfig.cache
+D:\FILE OPSIGO VISUAL STUDIO\HotelTransactionModify\HotelTransactionReader\obj\Debug\net9.0\ref\HotelTransactionReader.dll
