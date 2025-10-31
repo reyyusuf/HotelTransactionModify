@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3NYybLRufLY=",
+  "success": true,
+  "projectFilePath": "D:\\FILE OPSIGO VISUAL STUDIO\\HotelTransactionModify\\HotelTransactionReader\\HotelTransactionReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
