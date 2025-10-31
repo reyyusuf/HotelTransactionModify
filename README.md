@@ -1,2 +1,2 @@
 # HotelTransactionModify
-Belajar Mengolah Data menggunakan C#
+Belajar Mengolah Data Hotel menggunakan C#
